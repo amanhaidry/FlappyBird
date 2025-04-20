@@ -56,4 +56,4 @@ Flappy Bird is a simple yet engaging browser-based game where the player control
 
 ## Play Game
 
-Play the game here: [Play Now](#)
+Play the game here: [Play Now](https://amanhaidry.github.io/FlappyBird/)
